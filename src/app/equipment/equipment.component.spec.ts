@@ -1,3 +1,4 @@
+import { analyzeAndValidateNgModules } from '@angular/compiler';
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { EquipmentComponent } from './equipment.component';
